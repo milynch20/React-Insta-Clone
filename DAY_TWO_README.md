@@ -15,7 +15,7 @@
 - The props being passed to each component should be typed checked using `propTypes` and `defaultProps`.
 - The comment section should add a comment to the post
 
-### Description (Day II)
+## Description (Day II)
 
 - For this part of the project you are going to use React's lifecycle methods to get data and to render the components. Then you will use functions passed as props to build out the functionality more.
 - As data comes into the component, you will set it to the component's state, then pass it down to the child components.
